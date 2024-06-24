@@ -1,7 +1,7 @@
 # **SENTIMENT ANALYSIS**
 **a. To Do :** 
 Build a Text Classification Model for Sentiment Analysis \
-**b. Description :**  You are required to build a text classification model for sentiment 
+**b. Description :**  Required to build a text classification model for sentiment 
 analysis using a dataset of online product reviews. \
 **c. Requirements :** \
 i. Load the dataset and preprocess it if necessary (handle missing values,
